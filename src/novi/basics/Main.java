@@ -11,7 +11,7 @@ public class Main {
         int secondDigit;
         int thirdDigit;
 
-        // Maak een randomizer aan dit getallen kan genereren
+        // Randomizer aanmaken die getallen kan genereren
         Random randomizer = new Random();
 
         int maximum = 9;
